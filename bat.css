@@ -1,0 +1,9 @@
+body{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: #eee;
+}
+.battery {
+    font-size: 2rem;
+    color: cornflowerblue;
+}
